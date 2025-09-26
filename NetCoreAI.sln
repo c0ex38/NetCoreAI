@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project4_OpenAICh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project5_OpenAIWhisperAudioTranskript", "NetCoreAI.Project5_OpenAIWhisperAudioTranskript\NetCoreAI.Project5_OpenAIWhisperAudioTranskript.csproj", "{88BB1B03-508E-4E4C-B6E1-6ABBA87E9283}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project6_DallEImageGeneration", "NetCoreAI.Project6_DallEImageGeneration\NetCoreAI.Project6_DallEImageGeneration.csproj", "{9991E8C8-DE98-403F-881C-FDCBEEEC7154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project7_TesseractOcr", "NetCoreAI.Project7_TesseractOcr\NetCoreAI.Project7_TesseractOcr.csproj", "{5B002E5A-AF2B-438E-A04D-D0C55E0255D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{88BB1B03-508E-4E4C-B6E1-6ABBA87E9283}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88BB1B03-508E-4E4C-B6E1-6ABBA87E9283}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88BB1B03-508E-4E4C-B6E1-6ABBA87E9283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9991E8C8-DE98-403F-881C-FDCBEEEC7154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9991E8C8-DE98-403F-881C-FDCBEEEC7154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9991E8C8-DE98-403F-881C-FDCBEEEC7154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9991E8C8-DE98-403F-881C-FDCBEEEC7154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B002E5A-AF2B-438E-A04D-D0C55E0255D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B002E5A-AF2B-438E-A04D-D0C55E0255D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B002E5A-AF2B-438E-A04D-D0C55E0255D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B002E5A-AF2B-438E-A04D-D0C55E0255D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
